@@ -1,6 +1,4 @@
 # 19-Progressive-Web-Application-PWA-Text-Editor
-## 19 Progressive Web Applications (PWA) : Text Editor
-
 
 
 ## Description
@@ -9,9 +7,8 @@ The application is a web text editor where the user can create notes or code sni
 
 [GitHub repository](https://github.com/Cinderbeast/19-Progressive-Web-Application-PWA-Text-Editor)
 
-🚀The application has been deployed to Heroku and the URL of the deployed application is:-
- 
-https://mighty-waters-80466.herokuapp.com/
+🚀 Deployed to Heroku and the URL of the deployed application is:
+
 
 ## Table of Contents
 
@@ -65,11 +62,11 @@ THEN I should see a client server folder structure
 ``````
 *Below is the screenshot of the running at npm run start and npm run build* 
 
-![alt text](/assets/images/TE02.png)
+![alt text]()
 
 *Below is the screenshot of the generated HTML, service worker and a manifest file*
 
-![alt text](/assets/images/TE08.png)
+![alt text]()
 
 3.
 ``````
@@ -79,7 +76,7 @@ WHEN I open the text editor
 ``````
 *Below is the screenshot of the text editor "Just Another Text Editor (J.A.T.E)"*
 
-![alt text](/assets/images/TE03.png)
+![alt text]()
 
 4.
 ``````
@@ -91,7 +88,7 @@ THEN I find that the content in the text editor has been retrieved from our Inde
 ``````
 *Below is the  screenshot of content in the text editor has been retrieved from the IndexedDB"*
 
-![alt text](/assets/images/TE05.png)
+![alt text]()
 
 5.
 ``````
@@ -100,7 +97,7 @@ THEN I download my web application as an icon on my desktop
 ``````
 *Below is the screenshot of icon on the desktop"*
 
-![alt text](/assets/images/TE04.png)
+![alt text]()
 
 6.
 ``````
@@ -111,22 +108,16 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 ``````
 *Below is the screenshot of the static assets pre cached upon loading with subsequent pages and static assets"*
 
-![alt text](/assets/images/TE09.png)
 
-![alt text](/assets/images/TE10.png)
 
 7.
 
  ````````
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application 
-````````
-![alt text](/assets/images/TE11.png)
+``
 
 
 ## References
 
-*   The Unit Ahead : Progressive Web Applications (PWA)
-*   Module 19 Mini-Project: Deploy Contact Directory App on Heroku with Script
-*   Request-Response : The Full-Stack Blog : Heroku Deployment Guide
- 
+
