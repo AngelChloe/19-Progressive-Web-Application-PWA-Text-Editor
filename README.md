@@ -5,16 +5,15 @@
 
 The application is a web text editor where the user can create notes or code snippets with or without an internet connection and where the user can reliably retrieve them for later use.  The integrated service worker and Cache API's ensure that the application will remain fully functional even without and active internet connection.  This application allows the user to access visited pages even if the application is offline.
 
-[GitHub repository](https://github.com/Cinderbeast/19-Progressive-Web-Application-PWA-Text-Editor)
-
-🚀 Deployed to Heroku and the URL of the deployed application is:
-
 
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Deployed Heroku Link](#deployed-heroku-link)
+* [Sreenshot](#screenshot)
 * [References](#references)
+* [Author and Acknoledgements](#author-and-acknowledgements)
 
 
 ## Installation
@@ -47,6 +46,8 @@ WHEN I open my application in my editor
 THEN I should see a client server folder structure
 ``````
 *Below is the screenshot of the client server folder structure.  The folder structure have been set up or given in this structure.*
+
+
 
 ![alt text](/assets/images/TE07.png)
 
@@ -117,14 +118,20 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application 
 ``
 
-##Screenshot
-![TextEditorScreenshot](https://user-images.githubusercontent.com/105569378/196055698-add701da-3247-44db-8607-05006f380ada.png)
+## Screenshot
+https://user-images.githubusercontent.com/105569378/196055698-add701da-3247-44db-8607-05006f380ada.png
 
-## Heroku
 
-[Live link]("https://damp-reaches-38127.herokuapp.com/")
+## 🚀 [Deployed Heroku](https://damp-reaches-38127.herokuapp.com)
+
 
 ## References
 
-* [GitHub Link]("https://github.com/Cinderbeast/13-Object-Relational-Mapping-ORM-E-Commerce-Back-End") 
+[GitHub Link](https://github.com/Cinderbeast) 
+ 
+## Authour and acknowledgments:
+
+Created by Univertiy of Utah Coding Bootcamp Student, Cindy Chynoweth with the help of other AMAZING developer's out there​
+
+
 
