@@ -10,7 +10,7 @@ The application is a web text editor where the user can create notes or code sni
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Deployed Heroku Link](#deployed-heroku-link)
+* [Heroku](heroku)
 * [Sreenshot](#screenshot)
 * [References](#references)
 * [Author and Acknoledgements](#author-and-acknowledgements)
@@ -66,11 +66,11 @@ The application is a web text editor where the user can create notes or code sni
 * THEN I should have proper build scripts for a webpack application 
 
 ## Screenshot
-https://user-images.githubusercontent.com/105569378/196055698-add701da-3247-44db-8607-05006f380ada.png
+(https://user-images.githubusercontent.com/105569378/196055698-add701da-3247-44db-8607-05006f380ada.png}
 
 
-## 🚀 ![Deployed Heroku](https://damp-reaches-38127.herokuapp.com)
-
+## Heroku
+🚀 ![Deployed Link](https://damp-reaches-38127.herokuapp.com)
 
 ## References
 
