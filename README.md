@@ -117,7 +117,14 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application 
 ``
 
+##Screenshot
+![TextEditorScreenshot](https://user-images.githubusercontent.com/105569378/196055698-add701da-3247-44db-8607-05006f380ada.png)
+
+## Heroku
+
+[Live link]("https://damp-reaches-38127.herokuapp.com/")
 
 ## References
 
+* [GitHub Link]("https://github.com/Cinderbeast/13-Object-Relational-Mapping-ORM-E-Commerce-Back-End") 
 
