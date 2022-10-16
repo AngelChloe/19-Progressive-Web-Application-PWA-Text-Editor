@@ -10,9 +10,10 @@ The application is a web text editor where the user can create notes or code sni
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Screenshot](#screenshot)
 * [Heroku](heroku)
-* [Sreenshot](#screenshot)
-* [References](#references)
+* [GitHub Link:](#github-link: )
+* [References:](#eferences)
 * [Author and Acknoledgements](#author-and-acknowledgements)
 
 
@@ -66,14 +67,15 @@ The application is a web text editor where the user can create notes or code sni
 * THEN I should have proper build scripts for a webpack application 
 
 ## Screenshot
-![screen shot](https://user-images.githubusercontent.com/105569378/196055698-add701da-3247-44db-8607-05006f380ada.png}
-
+![TextEditorScreenshot](https://user-images.githubusercontent.com/105569378/196063121-512ac8dc-dc96-483b-b792-bf115c7ed3ea.png)
 
 ## Heroku
 🚀 ![Deployed Link](https://damp-reaches-38127.herokuapp.com)
 
 ## GitHub Link: 
 [GitHub Link](https://github.com/Cinderbeast) 
+
+## References:
 
 *   The Unit Ahead : Progressive Web Applications (PWA)
 *   Request-Response : The Full-Stack Blog : Heroku Deployment Guide
