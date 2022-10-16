@@ -66,14 +66,13 @@ The application is a web text editor where the user can create notes or code sni
 * THEN I should have proper build scripts for a webpack application 
 
 ## Screenshot
-(https://user-images.githubusercontent.com/105569378/196055698-add701da-3247-44db-8607-05006f380ada.png}
+![screen shot](https://user-images.githubusercontent.com/105569378/196055698-add701da-3247-44db-8607-05006f380ada.png}
 
 
 ## Heroku
 🚀 ![Deployed Link](https://damp-reaches-38127.herokuapp.com)
 
-## References
-
+## GitHub Link: 
 [GitHub Link](https://github.com/Cinderbeast) 
 
 *   The Unit Ahead : Progressive Web Applications (PWA)
