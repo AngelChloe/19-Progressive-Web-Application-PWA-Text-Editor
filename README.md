@@ -12,8 +12,8 @@ The application is a web text editor where the user can create notes or code sni
 * [Usage](#usage)
 * [Screenshot](#screenshot)
 * [Heroku](heroku)
-* [GitHub Link:](#github-link:)
-* [References:](#eferences:)
+* [GitHub Link](#github-link)
+* [References](#eferences)
 * [Author and Acknowledgements](#author-and-acknowledgements)
 
 
