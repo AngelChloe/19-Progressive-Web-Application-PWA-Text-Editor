@@ -12,9 +12,9 @@ The application is a web text editor where the user can create notes or code sni
 * [Usage](#usage)
 * [Screenshot](#screenshot)
 * [Heroku](heroku)
-* [GitHub Link:](#github-link: )
-* [References:](#eferences)
-* [Author and Acknoledgements](#author-and-acknowledgements)
+* [GitHub Link:](#github-link:)
+* [References:](#eferences:)
+* [Author and Acknowledgements](#author-and-acknowledgements)
 
 
 ## Installation
@@ -70,7 +70,7 @@ The application is a web text editor where the user can create notes or code sni
 ![TextEditorScreenshot](https://user-images.githubusercontent.com/105569378/196063121-512ac8dc-dc96-483b-b792-bf115c7ed3ea.png)
 
 ## Heroku
-🚀 ![Deployed Link](https://damp-reaches-38127.herokuapp.com)
+🚀 [Deployed Link](https://damp-reaches-38127.herokuapp.com/)
 
 ## GitHub Link: 
 [GitHub Link](https://github.com/Cinderbeast) 
