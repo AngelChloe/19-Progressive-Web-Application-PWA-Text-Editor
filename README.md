@@ -22,8 +22,8 @@ The application is a web text editor where the user can create notes or code sni
 * This text editor require a number of methods and store data to an IndexedDB database to be builded up.
 
 * This application will require the installation of Node.js and various npm packages.
-
-*   Node Package Manager (npm) is a software manager and installer which puts the modules in place so that the node project can utilize it, and also, it manages dependency conflicts intelligently and initialized using **npm init**. The package.json will be generated and will contains all the details of the application in which the user have inputted during the npm initialization. 
+ 
+* Node Package Manager (npm) is a software manager and installer which puts the modules in place so that the node project can utilize it, and also, it manages dependency conflicts intelligently and initialized using **npm init**. The package.json will be generated and will contains all the details of the application in which the user have inputted during the npm initialization. 
 
 *  This application will use the following npm packages:-
 
@@ -72,8 +72,6 @@ The application is a web text editor where the user can create notes or code sni
 ## Heroku
 🚀 [Deployed Link](https://damp-reaches-38127.herokuapp.com/)
 
-## GitHub Link
-[GitHub Link](https://github.com/Cinderbeast/19-Progressive-Web-Application-PWA-Text-Editor) 
 
 ## References:
 
@@ -81,7 +79,7 @@ The application is a web text editor where the user can create notes or code sni
 *   Request-Response : The Full-Stack Blog : Heroku Deployment Guide
 *   Google
  
-## Author and acknowledgments:
+## Author and Acknowledgments:
 
 Created by Univertiy of Utah Coding Bootcamp Student, Cindy Chynoweth with the help of other AMAZING developer's out there​
 
