@@ -11,9 +11,9 @@ The application is a web text editor where the user can create notes or code sni
 * [Installation](#installation)
 * [Usage](#usage)
 * [Screenshot](#screenshot)
-* [Heroku](heroku)
+* [Heroku](#heroku)
 * [GitHub Link](#github-link)
-* [References](#eferences)
+* [References](#references)
 * [Author and Acknowledgements](#author-and-acknowledgements)
 
 
@@ -72,15 +72,16 @@ The application is a web text editor where the user can create notes or code sni
 ## Heroku
 🚀 [Deployed Link](https://damp-reaches-38127.herokuapp.com/)
 
-## GitHub Link: 
-[GitHub Link](https://github.com/Cinderbeast) 
+## GitHub Link
+[GitHub Link](https://github.com/Cinderbeast/19-Progressive-Web-Application-PWA-Text-Editor) 
 
 ## References:
 
 *   The Unit Ahead : Progressive Web Applications (PWA)
 *   Request-Response : The Full-Stack Blog : Heroku Deployment Guide
+*   Google
  
-## Authour and acknowledgments:
+## Author and acknowledgments:
 
 Created by Univertiy of Utah Coding Bootcamp Student, Cindy Chynoweth with the help of other AMAZING developer's out there​
 
