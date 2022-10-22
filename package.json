@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/Cinderbeast/19-Progressive-Web-Application-PWA-Text-Editor#readme",
   "dependencies": {
+    "express": "^4.18.2",
     "package-lock.json": "^1.0.0"
+  },
+  "devDependencies": {
+    "workbox-cli": "^6.5.4"
   }
 }
