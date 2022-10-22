@@ -43,7 +43,7 @@ The application is a web text editor where the user can create notes or code sni
 * GIVEN a text editor web application, 
 * WHEN I open my application in my editor
 * THEN I should see a client server folder structure
-* WHEN I run `npm run start` from the root directory
+* WHEN I run `npm start` from the root directory
 * THEN I find that my application should start up the backend and serve the client
 * WHEN I run the text editor application from my terminal
 * THEN I find that my JavaScript files have been bundled using webpack
@@ -66,8 +66,12 @@ The application is a web text editor where the user can create notes or code sni
 * WHEN I deploy to Heroku
 * THEN I should have proper build scripts for a webpack application 
 
-## Screenshot
+## Screenshots
+
+** Text Editor
 ![TextEditorScreenshot](https://user-images.githubusercontent.com/105569378/196063121-512ac8dc-dc96-483b-b792-bf115c7ed3ea.png)
+
+
 
 ## Heroku
 🚀 [Deployed Link](https://damp-reaches-38127.herokuapp.com/)
