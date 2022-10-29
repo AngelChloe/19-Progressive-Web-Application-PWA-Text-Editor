@@ -17,7 +17,7 @@ The application is a web text editor where the user can create notes or code sni
 7. [References](#references)
 8. [Author and Acknowledgements](#author-and-acknowledgements)
 
-## Acceptance criteria
+## Acceptance Criteria
 
 GIVEN a text editor web application
 WHEN I open my application in my editor
@@ -74,9 +74,17 @@ THEN I should have proper build scripts for a webpack application
 
 ## Screenshots
 
-** Text Editor
-![TextEditorScreenshot](https://user-images.githubusercontent.com/105569378/196063121-512ac8dc-dc96-483b-b792-bf115c7ed3ea.png)
+Text Editor
+![TextEditorHome](https://user-images.githubusercontent.com/105569378/198852383-f79e2554-b0b9-4e6e-8ca9-800669c465df.png)
 
+** App Manifest Application
+![App Manifest Application](https://user-images.githubusercontent.com/105569378/198852386-cc3f652a-77bb-4055-ba09-4964dfbcdd6d.png)
+
+Service Worker
+![Service Worker](https://user-images.githubusercontent.com/105569378/198852402-4efc6495-e692-498b-bf93-a202725418b9.png)
+
+IndexDB JATE
+![IndexDB_JATE](https://user-images.githubusercontent.com/105569378/198852404-d3317c3d-388a-4d92-8c0a-51ac6febb044.png)
 
 
 ## Heroku
@@ -86,6 +94,7 @@ THEN I should have proper build scripts for a webpack application
 ## References:
 
 *   The Unit Ahead : Progressive Web Applications (PWA)
+    Module 19 Mini-Project: Deploy Contact Directory App on Heroku with Script
 *   Request-Response : The Full-Stack Blog : Heroku Deployment Guide
 *   Google
  
