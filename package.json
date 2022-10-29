@@ -4,7 +4,16 @@
   "description": "The application is a web text editor where the user can create notes or code snippets with or without an internet connection and where the user can reliably retrieve them for later use.  The integrated service worker and Cache API's ensure that the application will remain fully functional even without and active internet connection.  This application allows the user to access visited pages even if the application is offline.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run build && cd server && node server.js",
+    "build": "cd client && npm run build",
+    "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
+   "server": "cd server nodemon server.js --ignore client",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "client": "cd client && npm start"
+
+
+
   },
   "repository": {
     "type": "git",
@@ -18,8 +27,10 @@
   },
   "homepage": "https://github.com/Cinderbeast/19-Progressive-Web-Application-PWA-Text-Editor#readme",
   "dependencies": {
+    "db": "^3.4.0",
     "express": "^4.18.2",
-    "package-lock.json": "^1.0.0"
+    "package-lock.json": "^1.0.0",
+    "schema": "^0.2.1"
   },
   "devDependencies": {
     "workbox-cli": "^6.5.4"
