@@ -8,7 +8,7 @@ The application is a web text editor where the user can create notes or code sni
 
 ## Table of Contents
 
-1. [Acceptance Criteria](acceptance-criteria)
+1. [Acceptance Criteria](#acceptance-criteria)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Screenshots](#screenshots)
