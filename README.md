@@ -75,16 +75,15 @@ The application is a web text editor where the user can create notes or code sni
 ## Screenshots
 
 Text Editor
-![TextEditorHome](https://user-images.githubusercontent.com/105569378/198852383-f79e2554-b0b9-4e6e-8ca9-800669c465df.png)
+![TextEditorHome](https://user-images.githubusercontent.com/105569378/199362410-bb5845a2-4443-44b6-89e4-4fbe7f7898a8.png)
 
-** App Manifest Application
-![App Manifest Application](https://user-images.githubusercontent.com/105569378/198852386-cc3f652a-77bb-4055-ba09-4964dfbcdd6d.png)
+ Manifest Application![ManifestApp](https://user-images.githubusercontent.com/105569378/199362417-ec1c9c97-931b-4849-8e3c-33528a27a0a0.png)
 
-Service Worker
-![Service Worker](https://user-images.githubusercontent.com/105569378/198852402-4efc6495-e692-498b-bf93-a202725418b9.png)
+Service Workers
+![ServicesWorkers](https://user-images.githubusercontent.com/105569378/199362422-1fcce6f6-21c5-40f1-88b4-8ed6404a3209.png)
 
 IndexDB JATE
-![IndexDB_JATE](https://user-images.githubusercontent.com/105569378/198852404-d3317c3d-388a-4d92-8c0a-51ac6febb044.png)
+![IndexDB](https://user-images.githubusercontent.com/105569378/199363082-c250cc00-0e6e-499b-9057-54c274d2a3a0.png)
 
 
 ## Heroku
@@ -94,7 +93,7 @@ IndexDB JATE
 ## References:
 
 *   The Unit Ahead : Progressive Web Applications (PWA)
-    Module 19 Mini-Project: Deploy Contact Directory App on Heroku with Script
+*   Module 19 Mini-Project: Deploy Contact Directory App on Heroku with Script
 *   Request-Response : The Full-Stack Blog : Heroku Deployment Guide
 *   Google
  
