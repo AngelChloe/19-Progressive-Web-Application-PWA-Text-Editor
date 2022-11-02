@@ -13,9 +13,9 @@ The application is a web text editor where the user can create notes or code sni
 3. [Usage](#usage)
 4. [Screenshots](#screenshots)
 5. [Heroku](#heroku)
-6. [GitHub Link](#github-link)
+6. [GitHub](#github)
 7. [References](#references)
-8. [Author and Acknowledgments](#author-and-acknowledgements)
+8. [Author and Acknowledgements](#author-and-acknowledgements)
 
 ## Acceptance Criteria
 
@@ -89,7 +89,7 @@ IndexDB JATE
 ## Heroku
 🚀 [Deployed Link](https://damp-reaches-38127.herokuapp.com/)
 
-## Github Link
+## GitHub
 [GitHub Link](https://github.com/Cinderbeast/)
 
 ## References:
@@ -99,7 +99,7 @@ IndexDB JATE
 *   Request-Response : The Full-Stack Blog : Heroku Deployment Guide
 *   Google
  
-## Author and Acknowledgments
+## Author and Acknowledgements
 
 Created by Univertiy of Utah Coding Bootcamp Student, Cindy Chynoweth with the help of other AMAZING developer's out there​
 
