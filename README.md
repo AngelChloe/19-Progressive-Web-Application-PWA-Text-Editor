@@ -90,7 +90,7 @@ IndexDB JATE
 🚀 [Deployed Link](https://damp-reaches-38127.herokuapp.com/)
 
 ## Github Link
-[GitHub Link](#github-link)
+[GitHub Link](https://github.com/Cinderbeast/)
 
 ## References:
 
