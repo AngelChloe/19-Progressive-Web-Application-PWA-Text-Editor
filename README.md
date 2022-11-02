@@ -15,7 +15,7 @@ The application is a web text editor where the user can create notes or code sni
 5. [Heroku](#heroku)
 6. [GitHub Link](#github-link)
 7. [References](#references)
-8. [Author and Acknowledgements](#author-and-acknowledgements)
+8. [Author and Acknowledgments](#author-and-acknowledgements)
 
 ## Acceptance Criteria
 
@@ -89,6 +89,8 @@ IndexDB JATE
 ## Heroku
 🚀 [Deployed Link](https://damp-reaches-38127.herokuapp.com/)
 
+## Github Link
+[GitHub Link](#github-link)
 
 ## References:
 
@@ -97,7 +99,7 @@ IndexDB JATE
 *   Request-Response : The Full-Stack Blog : Heroku Deployment Guide
 *   Google
  
-## Author and Acknowledgments:
+## Author and Acknowledgments
 
 Created by Univertiy of Utah Coding Bootcamp Student, Cindy Chynoweth with the help of other AMAZING developer's out there​
 
