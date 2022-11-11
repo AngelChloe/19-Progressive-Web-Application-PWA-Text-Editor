@@ -32,6 +32,8 @@
     "webpack": "^5.74.0"
   },
   "devDependencies": {
-    "workbox-cli": "^6.5.4"
+    "workbox-cli": "^6.5.4",
+    "concurrently": "^5.2.0",
+    "nodemon": "^1.4.1"
   }
 }
