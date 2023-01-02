@@ -90,7 +90,7 @@ IndexDB JATE
 🚀 [Deployed Link](https://damp-reaches-38127.herokuapp.com/)
 
 ## GitHub
-[GitHub Link](https://github.com/Cinderbeast/)
+[GitHub Link](https://github.com/AngelChloe/19-Progressive-Web-Application-PWA-Text-Editor)
 
 ## References:
 
